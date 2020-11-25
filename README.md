@@ -1,3 +1,10 @@
+## Verified to work in Release
+This project was derived from the nginx-golang-postgres project in [awesome-compose](https://github.com/docker/awesome-compose)
+
+No modifications to this project were necessary to make it work in Release.
+
+To make this project run in [Release](https://releaseapp.io), simply create a new application with this repository.
+
 ## Compose sample application
 ### Go server with an Nginx proxy and a Postgres database
 
